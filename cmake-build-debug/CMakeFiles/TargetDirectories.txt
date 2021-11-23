@@ -1,0 +1,3 @@
+C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/001_STUDY_/000_HOMEWORKS_/000_CPP_GAMEDEV_/001_3_CppScanfAnalogue/cmake-build-debug/CMakeFiles/ScanfAnalogue.dir
+C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/001_STUDY_/000_HOMEWORKS_/000_CPP_GAMEDEV_/001_3_CppScanfAnalogue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/001_STUDY_/000_HOMEWORKS_/000_CPP_GAMEDEV_/001_3_CppScanfAnalogue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

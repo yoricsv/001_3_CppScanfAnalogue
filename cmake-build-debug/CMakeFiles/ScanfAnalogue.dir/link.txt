@@ -1,0 +1,3 @@
+C:\CLion_IDE\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\ScanfAnalogue.dir/objects.a
+C:\MinGW_Compiler_C-C++\bin\ar.exe cr CMakeFiles\ScanfAnalogue.dir/objects.a @CMakeFiles\ScanfAnalogue.dir\objects1.rsp
+C:\MinGW_Compiler_C-C++\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ScanfAnalogue.dir/objects.a -Wl,--no-whole-archive -o ..\out\ScanfAnalogue.exe -Wl,--out-implib,libScanfAnalogue.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ScanfAnalogue.dir\linklibs.rsp

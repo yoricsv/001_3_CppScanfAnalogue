@@ -25,15 +25,20 @@ project( ${PROJECT_NAME}
             ${PROJECT_NAME}/inc
             ${PROJECT_NAME}/src
     )
+#    set( HEADERS
+#            ${PROJECT_SOURCE_DIR}/main.h
+#            ${PROJECT_SOURCE_DIR}/c_string_handler.h
+#    )
     set( SOURCES
-            main.cpp
+            ${PROJECT_SOURCE_DIR}/main.cpp
+            ${PROJECT_SOURCE_DIR}/c_string_handler.cpp
     )
 
 include_directories(${PROJECT_SOURCE_DIR})
 
 add_executable(
         ${PROJECT_NAME}
-             ${PROJECT_SOURCE_DIR}/${SOURCES}
+             ${SOURCES}
 )
 
 set_target_properties(
